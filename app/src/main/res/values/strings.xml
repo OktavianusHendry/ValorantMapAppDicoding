@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">ValorantMap</string>
+
+    <string name="maps_name">Maps Name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="general">General</string>
+    <string name="location">Location</string>
+    <string name="coordinate">Coordinates</string>
+    <string name="spike_sites">Spike Sites</string>
+    <string name="map_features">Map Features</string>
+    <string name="added">Added</string>
+    <string name="rotation_status">Rotation Status</string>
+    <string name="codename">Codename</string>
+    <string name="minimap">Mini Map</string>
+    <string name="like">Like our content?</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="creator">The Creator</string>
+    <string name="name">Oktavianus Hendry Wijaya</string>'
+    <string name="email">oktavianush17@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>SUNSET</item>
+        <item>LOTUS</item>
+        <item>PEARL</item>
+        <item>FRACTURE</item>
+        <item>BREEZE</item>
+        <item>ICEBOX</item>
+        <item>BIND</item>
+        <item>HAVEN</item>
+        <item>SPLIT</item>
+        <item>ASCENT</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>A disaster at a local kingdom facility threatens to engulf the whole neighborhood. Stop at your favorite food truck then fight across the city in this traditional three lane map.</item>
+        <item>A mysterious structure housing an astral conduit radiates with ancient power. Great stone doors provide a variety of movement opportunities and unlock the paths to three mysterious sites.</item>
+        <item>Attackers push down into the Defenders on this two-site map set in a vibrant, underwater city. Pearl is a geo-driven map with no mechanics. Take the fight through a compact mid or the longer range wings in our first map set in Omega Earth.</item>
+        <item>A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault.</item>
+        <item>Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You\'ll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.</item>
+        <item>Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they’ll never see you coming.</item>
+        <item>Two sites. No middle. Gotta pick left or right. What’s it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.</item>
+        <item>Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There’s more territory to control, but defenders can use the extra real estate for aggressive pushes.</item>
+        <item>If you want to go far, you’ll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.</item>
+        <item>An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they’re down, you’ll have to destroy them or find another way. Yield as little territory as possible.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/sunset</item>
+        <item>@drawable/lotus</item>
+        <item>@drawable/pearl</item>
+        <item>@drawable/fracture</item>
+        <item>@drawable/breeze</item>
+        <item>@drawable/icebox</item>
+        <item>@drawable/bind</item>
+        <item>@drawable/haven</item>
+        <item>@drawable/split</item>
+        <item>@drawable/ascent</item>
+    </integer-array>
+    <integer-array name="data_minimap">
+        <item>@drawable/sunset_minimap</item>
+        <item>@drawable/lotus_minimap</item>
+        <item>@drawable/pearl_minimap</item>
+        <item>@drawable/fracture_minimap</item>
+        <item>@drawable/breeze_minimap</item>
+        <item>@drawable/icebox_minimap</item>
+        <item>@drawable/bind_minimap</item>
+        <item>@drawable/haven_minimap</item>
+        <item>@drawable/split_minimap</item>
+        <item>@drawable/ascent_minimap</item>
+    </integer-array>
+
+    <string-array name="data_location">
+        <item>Boyle Heights, Los Angeles, \nCalifornia, USA, Alpha Earth</item>
+        <item>Western Ghats, \nKarnataka, India, Omega Earth</item>
+        <item>Lisbon, Lisbon District, \nPortugal, Omega Earth</item>
+        <item>Santa Fe County, New Mexico, \nUSA, Alpha Earth</item>
+        <item>Bermuda Triangle, Atlantic Ocean, \nAlpha Earth</item>
+        <item>Bennett Island, Sakha, Far Eastern Federal District, \nRussia, Alpha Earth</item>
+        <item>Rabat, Rabat-Salé-Kénitra, \nMorocco, Alpha Earth</item>
+        <item>Thimphu, Thimphu District, \nBhutan, Alpha Earth</item>
+        <item>Shinjuku, Tokyo, Kantō, \nJapan, Alpha Earth</item>
+        <item>San Marco, Venice, Veneto, \nItaly, Alpha Earth</item>
+    </string-array>
+
+    <string-array name="data_coordinate">
+        <item>34\u00B02\u2032C\u2033 N 118\u00B012\u2032YT\u2033 W\n(34\u00B02\u20327\u2033 N 118\u00B012\u203216\u2033 W)</item>
+        <item>14\u00B07\u2032AD.4\u2033N8 74\u00B053\u2032XY\u2033E8\n(14\u00B07\u203203\u2033N 74\u00B053\u203221\u2033E)</item>
+        <item>38\u00B042\u2032ED\u2033N8 9\u00B08\u2032XS\u2033W8\n(38\u00B042\u203243\u2033N 9\u00B08\u203227\u2033W)</item>
+        <item>35\u00B048\u2032BI\u2033 N 106\u00B008\u2032YQ\u2033 W\n(35\u00B048\u203218\u2033 N 106\u00B008\u203219\u2033 W)</item>
+        <item>26\u00B011\u2032AG\u2033 N 71\u00B010\u2032WY\u2033 W\n(26\u00B011\u203206\u2033 N 71\u00B010\u203231\u2033 W)</item>
+        <item>76\u00B044\u2032A\u2033 N 149\u00B030\u2032Z\u2033 E\n(76\u00B044\u203200\u2033 N 149\u00B030\u20320\u2033 E)</item>
+        <item>34\u00B02\u2032A\u2033 N 6\u00B051\u2032Z\u2033 W\n(34\u00B02\u203200\u2033 N 6\u00B051\u20320\u2033 W)</item>
+        <item>27\u00B028\u2032A\u2033 N 89\u00B038\u2032WZ\u2033 E\n(27\u00B028\u20320\u2033 N 89\u00B038\u203230\u2033 E)</item>
+        <item>35\u00B041\u2032CD\u2033 N 139\u00B041\u2032WX\u2033 E\n(35\u00B041\u203223\u2033 N 139\u00B041\u203232\u2033 E)</item>
+        <item>45\u00B026\u2032BF\u2033 N 12\u00B020\u2032Q\u2033 E\n(45\u00B026\u203215\u2033 N 12\u00B020\u20329\u2033 E)</item>
+    </string-array>
+
+
+    <string-array name="data_sites">
+        <item>A/B</item>
+        <item>A/B/C</item>
+        <item>A/B</item>
+        <item>A/B</item>
+        <item>A/B</item>
+        <item>A/B</item>
+        <item>A/B</item>
+        <item>A/B/C</item>
+        <item>A/B</item>
+        <item>A/B</item>
+    </string-array>
+
+    <string-array name="data_map_feature">
+        <item>500 HP irreversible bomb doors</item>
+        <item>Rope ascender \n400 HP destructible wall \nRotating doorways \nSilent drop</item>
+        <item>N/A</item>
+        <item>Automatic door \nOne-way automatic ziplines \nRope ascenders</item>
+        <item>Rope ascenders \nMechanical door \nOne-way automatic chute</item>
+        <item>Rope ascenders \nZiplines</item>
+        <item>One-way teleporters \nOne-way automatic doors</item>
+        <item>400 HP destructible panels</item>
+        <item>Rope ascenders</item>
+        <item>500 HP irreversible bomb doors \n400 HP destructible panels \nDestructible glass pane</item>
+    </string-array>
+
+    <string-array name="data_added">
+        <item>August 29th, 2023 (v7.04)</item>
+        <item>January 10th, 2023 (v6.0)</item>
+        <item>June 22nd, 2022 (v5.0)</item>
+        <item>September 8th, 2021 (v3.05)</item>
+        <item>April 27th, 2021 (v2.08)</item>
+        <item>October 13th, 2020 (v1.10)</item>
+        <item>Beta</item>
+        <item>Beta</item>
+        <item>Beta</item>
+        <item>June 2nd, 2020 (v1.0)</item>
+    </string-array>
+
+    <string-array name="data_rotation">
+        <item>Enabled</item>
+        <item>Enabled</item>
+        <item>Removed</item>
+        <item>Removed</item>
+        <item>Enabled</item>
+        <item>Removed</item>
+        <item>Enabled</item>
+        <item>Enabled</item>
+        <item>Enabled</item>
+        <item>Enabled</item>
+    </string-array>
+
+    <string-array name="data_codename">
+        <item>Juliett</item>
+        <item>Jam</item>
+        <item>Pitt</item>
+        <item>Canyon</item>
+        <item>Foxtrot</item>
+        <item>Port</item>
+        <item>Duality</item>
+        <item>Triad</item>
+        <item>Bonsai</item>
+        <item>Ascent</item>
+    </string-array>
+</resources>
